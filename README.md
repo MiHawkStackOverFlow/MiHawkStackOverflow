@@ -1,16 +1,91 @@
-## Hi there 👋
 
-<!--
-**MiHawkStackOverFlow/MiHawkStackOverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abhishek Sharma! 🇨🇦👋
 
-Here are some ideas to get you started:
+### Senior Software Developer | Full Stack Engineer | Cloud Enthusiast | Future AI/ML Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📜 About Me
+
+- **Location:** Bangalore, India (Relocating to Canada — Express Entry PR in Progress)
+- **Experience:** 12+ years in Full Stack Development and Cloud Solutions
+- **Education:** Bachelor's Degree in Computer Engineering  
+  _(Evaluated as equivalent to a Canadian 4-Year Bachelor's Degree by WES Canada)_
+- **Certifications:**  
+  - IELTS General Training – Overall Band 7.5 (CLB 9 Equivalent)
+
+---
+
+## 💼 Professional Journey
+
+| Company | Role | Technologies | Duration |
+|:---|:---|:---|:---|
+| **ResMed Technology** | Senior Software Engineer | React.js, Next.js, Angular, Java Spring Boot | Aug 2023 – Present |
+| **BMC Software** | Senior Software Engineer | Angular, Java, Spring Boot | Jan 2022 – Aug 2023 |
+| **Koch Industries** | Senior Software Engineer | Vue.js, Nuxt.js | Oct 2020 – Nov 2021 |
+| **Nous Infosystems** | Module Lead | React.js | Feb 2020 – Sep 2020 |
+| **Capgemini** | Senior Software Engineer | Angular | Nov 2018 – Feb 2020 |
+| **Lantronix** | Senior Member Technical Staff | React.js, IoT Dashboards | Oct 2017 – Nov 2018 |
+
+---
+
+## 🛠️ Technical Stack
+
+- **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, Angular, JavaScript, TypeScript, HTML5, CSS3
+- **Backend:** Python (FastAPI, Flask), Java (Spring Boot, Microservices), REST APIs, Hibernate
+- **DevOps & Cloud:** AWS (EC2, S3, Lambda), Azure, Kubernetes, Docker, Jenkins, GitHub Actions
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Other Skills:** CI/CD Pipelines, Microservices Architecture, Agile Methodologies, Problem Solving
+
+---
+
+## 🚀 Current Focus and Goals (2025–2027)
+
+- Building **EquiTracker**: A next-generation personal finance tracker (Python + Next.js + React)
+- Developing **AI/ML Microservices** for predictive financial insights (Python TensorFlow/PyTorch learning path)
+- Expanding Cloud expertise for scalable application deployment (AWS Certifications Planned)
+- Preparing for **French TEF Canada** exam to enhance immigration opportunities (B2 Level Target)
+- Aiming to establish a **strong GitHub portfolio** with production-grade fullstack and AI/ML projects
+
+---
+
+## 🏆 Highlights
+
+- **Canadian PR in Progress:** Express Entry Profile Submitted
+- **IELTS:** Listening 8.5 | Reading 7.0 | Writing 7.5 | Speaking 7.5 | Overall Band 7.5 (CLB 9)
+- **Education:** Bachelor of Engineering — Computer Engineering (Pune University, India)
+- **WES Evaluation:** Canadian 4-Year Bachelor's Degree Equivalent
+
+---
+
+## 📈 Upcoming Projects on GitHub (Roadmap 2025)
+
+- [x] **EquiTracker** — Personal Finance Fullstack App (Python + Next.js)
+- [ ] **Microservices Demo** — Spring Boot + Kubernetes + AWS
+- [ ] **AI/ML Practice Projects** — Finance Data Prediction, Small Language Models (Python)
+- [ ] **Portfolio Website** — Personal Website using Next.js, TailwindCSS, and Vercel
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [Abhishek Sharma](https://www.linkedin.com/in/abhishek-sharma-18ab6aa8/)
+- **GitHub:** [MiHawkStackOverFlow](https://github.com/MiHawkStackOverFlow)
+- **Email:** abhivsharma9@gmail.com
+- **Stack Overflow:** [Profile](https://stackoverflow.com/users/6504463/abhishek-sharma)
+
+---
+
+# 🌟 Why Hire Me?
+
+✅ Strong expertise across React, Next.js, Vue.js, Java, Python, Microservices, and Cloud.  
+✅ Proven ability to deliver scalable, high-performance, real-world solutions.  
+✅ Leadership experience in mentoring, collaboration, and cross-functional project success.  
+✅ Fully prepared for Canadian relocation — Express Entry Profile and IELTS completed.  
+✅ Ambitious, learning-driven, and ready to contribute from Day 1.
+
+---
+
+# ✨ Let's Build the Future Together!
+
+---
