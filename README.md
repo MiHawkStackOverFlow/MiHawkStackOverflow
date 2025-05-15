@@ -83,9 +83,3 @@
 ✅ Leadership experience in mentoring, collaboration, and cross-functional project success.  
 ✅ Fully prepared for Canadian relocation — Express Entry Profile and IELTS completed.  
 ✅ Ambitious, learning-driven, and ready to contribute from Day 1.
-
----
-
-# ✨ Let's Build the Future Together!
-
----
