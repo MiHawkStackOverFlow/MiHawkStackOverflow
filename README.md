@@ -44,14 +44,12 @@
 - Building **EquiTracker**: A next-generation personal finance tracker (Python + Next.js + React)
 - Developing **AI/ML Microservices** for predictive financial insights (Python TensorFlow/PyTorch learning path)
 - Expanding Cloud expertise for scalable application deployment (AWS Certifications Planned)
-- Preparing for **French TEF Canada** exam to enhance immigration opportunities (B2 Level Target)
 - Aiming to establish a **strong GitHub portfolio** with production-grade fullstack and AI/ML projects
 
 ---
 
 ## 🏆 Highlights
 
-- **Canadian PR in Progress:** Express Entry Profile Submitted
 - **IELTS:** Listening 8.5 | Reading 7.0 | Writing 7.5 | Speaking 7.5 | Overall Band 7.5 (CLB 9)
 - **Education:** Bachelor of Engineering — Computer Engineering (Pune University, India)
 - **WES Evaluation:** Canadian 4-Year Bachelor's Degree Equivalent
@@ -80,6 +78,5 @@
 
 ✅ Strong expertise across React, Next.js, Vue.js, Java, Python, Microservices, and Cloud.  
 ✅ Proven ability to deliver scalable, high-performance, real-world solutions.  
-✅ Leadership experience in mentoring, collaboration, and cross-functional project success.  
-✅ Fully prepared for Canadian relocation — Express Entry Profile and IELTS completed.  
+✅ Leadership experience in mentoring, collaboration, and cross-functional project success. 
 ✅ Ambitious, learning-driven, and ready to contribute from Day 1.
