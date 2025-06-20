@@ -78,5 +78,4 @@
 
 ✅ Strong expertise across React, Next.js, Vue.js, Java, Python, Microservices, and Cloud.  
 ✅ Proven ability to deliver scalable, high-performance, real-world solutions.  
-✅ Leadership experience in mentoring, collaboration, and cross-functional project success. 
-✅ Ambitious, learning-driven, and ready to contribute from Day 1.
+✅ Leadership experience in mentoring, collaboration, and cross-functional project success.
