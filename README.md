@@ -7,12 +7,10 @@
 
 ## 📜 About Me
 
-- **Location:** Bangalore, India (Relocating to Canada — Express Entry PR in Progress)
+- **Location:** Bangalore, India
 - **Experience:** 12+ years in Full Stack Development and Cloud Solutions
 - **Education:** Bachelor's Degree in Computer Engineering  
   _(Evaluated as equivalent to a Canadian 4-Year Bachelor's Degree by WES Canada)_
-- **Certifications:**  
-  - IELTS General Training – Overall Band 7.5 (CLB 9 Equivalent)
 
 ---
 
@@ -50,7 +48,6 @@
 
 ## 🏆 Highlights
 
-- **IELTS:** Listening 8.5 | Reading 7.0 | Writing 7.5 | Speaking 7.5 | Overall Band 7.5 (CLB 9)
 - **Education:** Bachelor of Engineering — Computer Engineering (Pune University, India)
 - **WES Evaluation:** Canadian 4-Year Bachelor's Degree Equivalent
 
