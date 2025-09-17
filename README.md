@@ -49,7 +49,6 @@
 ## 🏆 Highlights
 
 - **Education:** Bachelor of Engineering — Computer Engineering (Pune University, India)
-- **WES Evaluation:** Canadian 4-Year Bachelor's Degree Equivalent
 
 ---
 
