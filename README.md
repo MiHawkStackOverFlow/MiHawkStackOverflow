@@ -1,5 +1,5 @@
 
-# Hi, I'm Abhishek Sharma! 🇨🇦👋
+# Hi, I'm Abhishek Sharma!
 
 ### Senior Software Developer | Full Stack Engineer | Cloud Enthusiast | Future AI/ML Specialist
 
