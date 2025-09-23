@@ -10,7 +10,7 @@
 - **Location:** Bangalore, India
 - **Experience:** 12+ years in Full Stack Development and Cloud Solutions
 - **Education:** Bachelor's Degree in Computer Engineering  
-  _(Evaluated as equivalent to a Canadian 4-Year Bachelor's Degree by WES Canada)_
+ 
 
 ---
 
