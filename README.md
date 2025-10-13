@@ -18,7 +18,7 @@
 
 | Company | Role | Technologies | Duration |
 |:---|:---|:---|:---|
-| **ResMed** | Senior Software Engineer | Python(FastAPI), React (Next.js), Angular, Spring Boot | Aug 2023 – Present |
+| **ResMed** | Senior Software Engineer | Python, React, Angular, Spring Boot | Aug 2023 – Present |
 | **BMC Software** | Senior Software Engineer | Angular, Java, Spring Boot | Jan 2022 – Aug 2023 |
 | **Koch Industries** | Senior Software Engineer | Vue.js, Nuxt.js, Python, FastAPI | Oct 2020 – Nov 2021 |
 | **Nous Infosystems** | Module Lead | React.js | Feb 2020 – Sep 2020 |
