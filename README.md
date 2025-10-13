@@ -18,12 +18,12 @@
 
 | Company | Role | Technologies | Duration |
 |:---|:---|:---|:---|
-| **ResMed Technology** | Senior Software Engineer | React.js, Next.js, Angular, Java Spring Boot | Aug 2023 – Present |
+| **ResMed Technology** | Senior Software Engineer | Python, FastAPI, React.js, Next.js, Angular, Java Spring Boot | Aug 2023 – Present |
 | **BMC Software** | Senior Software Engineer | Angular, Java, Spring Boot | Jan 2022 – Aug 2023 |
-| **Koch Industries** | Senior Software Engineer | Vue.js, Nuxt.js | Oct 2020 – Nov 2021 |
+| **Koch Industries** | Senior Software Engineer | Vue.js, Nuxt.js, Python, FastAPI | Oct 2020 – Nov 2021 |
 | **Nous Infosystems** | Module Lead | React.js | Feb 2020 – Sep 2020 |
-| **Capgemini** | Senior Software Engineer | Angular | Nov 2018 – Feb 2020 |
-| **Lantronix** | Senior Member Technical Staff | React.js, IoT Dashboards | Oct 2017 – Nov 2018 |
+| **Capgemini** | Senior Software Engineer | Angular, React.js | Nov 2018 – Feb 2020 |
+| **Lantronix** | Senior Member Technical Staff | React.js, Node.js, IoT Dashboards | Oct 2017 – Nov 2018 |
 
 ---
 
