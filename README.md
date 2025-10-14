@@ -54,8 +54,7 @@
 
 ## 📈 Upcoming Projects on GitHub (Roadmap 2025)
 
-- [x] **EquiTracker** — Personal Finance Fullstack App (Python + Next.js)
-- [ ] **Microservices Demo** — Spring Boot + Kubernetes + AWS
+- [x] **EquiTracker** — Personal Finance Fullstack App (Python + Next.js) 
 - [ ] **AI/ML Practice Projects** — Finance Data Prediction, Small Language Models (Python)
 - [ ] **Portfolio Website** — Personal Website using Next.js, TailwindCSS, and Vercel
 
