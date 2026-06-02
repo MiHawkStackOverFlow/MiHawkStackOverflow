@@ -30,7 +30,7 @@
 ## 🛠️ Technical Stack
 
 - **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, Angular, JavaScript, TypeScript, HTML5, CSS3
-- **Backend:** Python (FastAPI, Flask), Java (Spring Boot, Microservices), REST APIs, Hibernate
+- **Backend:** Python (FastAPI), Java (Spring Boot, Microservices), REST APIs, Hibernate
 - **DevOps & Cloud:** AWS (EC2, S3, Lambda), Azure, Kubernetes, Docker, Jenkins, GitHub Actions
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Other Skills:** CI/CD Pipelines, Microservices Architecture, Agile Methodologies, Problem Solving
@@ -65,7 +65,6 @@
 - **LinkedIn:** [Abhishek Sharma](https://www.linkedin.com/in/abhishek-sharma-18ab6aa8/)
 - **GitHub:** [MiHawkStackOverFlow](https://github.com/MiHawkStackOverFlow)
 - **Email:** abhivsharma9@gmail.com
-- **Stack Overflow:** [Profile](https://stackoverflow.com/users/6504463/abhishek-sharma)
 
 ---
 
